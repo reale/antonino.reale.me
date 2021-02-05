@@ -1,7 +1,7 @@
 # Site settings
 title: Antonino Reale
 email: roberto@reale.me
-description: 
+description: SorrentoEventi.eu
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://antonino.reale.me" # the base hostname & protocol for your site
 
