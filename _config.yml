@@ -1,21 +1,21 @@
 # Site settings
-title: Eventually
-email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title: Antonino Reale
+email: roberto@reale.me
+description: 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://antonino.reale.me" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/Sorrentoeventi
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
